@@ -13,7 +13,7 @@
         "BucketName": {
           "Description": "Name of the new S3 Bucket to Host Site",
           "Type": "String",
-          "Default": "eeg3-serverless-template"
+          "Default": "eeg3-serverless-template987"
         },
         "CognitoPool": {
           "Description": "Name for the Cognito Pool",
